@@ -1,0 +1,11 @@
+{
+  "name": "project-oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/zakysyahab14/project-oop.git",
+  "author" : "zaky",
+  "license": "MIT"
+}
